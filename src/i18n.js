@@ -15,7 +15,7 @@ i18n
       escapeValue: false, 
     },
     backend: {
-        loadPath: '/locales/{{lng}}/{{ns}}.json',
+        loadPath: '/agenda-corte/locales/{{lng}}/{{ns}}.json',
     },
     
     // 💡 IMPORTANTE: Mantenha esta lista para ajudar o i18next a carregar as regras de pluralização.
