@@ -1,0 +1,7 @@
+{
+  "app_title": "Counter",
+  "greeting_message": "Internationalization",
+  "button_label": "Click Here",
+  "counter_message": "You clicked {{count}} time",
+  "counter_message_plural": "You clicked {{count}} times"
+}

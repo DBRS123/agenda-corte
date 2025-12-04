@@ -1,0 +1,7 @@
+{
+  "app_title": "Contador",
+  "greeting_message": "Internacionalização",
+  "button_label": "Clique aqui",
+  "counter_message": "Clicou {{count}} vez",
+  "counter_message_plural": "Clicou {{count}} vezes."
+}
